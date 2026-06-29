@@ -1,4 +1,4 @@
-Project Name: Product Manager Application
+Project Name: Product-Manager-Application
 
 Description: A simple Flask web application to manage products. Users can add products with validation checks, view all products, search products by name or category, and delete items from the database.
 This application connects to a SQLite database using Flask-SQLAlchemy.
